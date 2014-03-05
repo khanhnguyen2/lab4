@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* Homepage
+web:    java -cp target/classes:target/dependency/* edu.oit.cst236.lab4.Homepage
